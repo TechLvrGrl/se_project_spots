@@ -15,7 +15,6 @@
 }
 
 .footer__divider {
-    height: 1px;
     max-width: 1280px;
     margin: 0 auto;
     border-bottom: 1px solid rgba(33, 33, 33, 0.1);
